@@ -1,0 +1,54 @@
+// Favorites
+https://kexp.streamguys1.com/kexp160.aac ~KEXP~ #Local #Favorites
+http://freshgrass.streamguys1.com/folkalley-128mp3 ~Folk-Alley~ #Local #Favorites #Folk
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3.mp3 ~KUOW~ #Local #Favorites
+http://classicalking.streamguys1.com/king-fm-aac-128k ~KING~ #Local #Favorites #Classical
+https://knkx-live-a.edge.audiocdn.com/6285_256k ~KNKX-Jazz~ #Favorites #Local
+https://knkx-live-a.edge.audiocdn.com/6284_256k ~KNKX-News~ #Favorites #Local
+https://bonneville.cdnstream1.com/2642_48.aac ~710ESPN~ #Favorites #Sports
+http://mscp3.live-streams.nl:8360/flac.flac ~Naim~ #Favorites #Lossless
+http://mscp3.live-streams.nl:8250/class-flac.flac ~Naim-Classical~ #Favorites #Lossless
+http://mscp3.live-streams.nl:8340/jazz-flac.flac ~Naim-Jazz~ #Favorites #Lossless
+https://mscp4.live-streams.nl:8142/flac.ogg ~PureClassix~ #Favorites #Lossless
+http://198.15.94.34:8006/stream ~Deep-House-Lounge~ #Favorites #Ambient
+https://somafm.com/defcon130.pls ~soma.fm-Hacker-Music~ #Favorites #Ambient
+
+//FOLK
+https://www.radioking.com/play/alternative-radio-1 ~Alternative-Radio~ #Folk
+
+//CLASSICAL
+http://radio.cesnet.cz:8000/cro-d-dur.flac ~CesNet-Classic~ #Classical
+http://ice-the.musicradio.com/ClassicFMMP3 ~Classic-FM-UK~ #Classical
+http://icestreaming.rai.it/3.mp3 ~Rai-Radio-3~ #Classical
+https://icecast.walmradio.com:8443/walm2 ~WALM-2-HD~ #Classical
+http://relax.stream.publicradio.org/relax.mp3 ~Your-Classical-Relax~ #Classical
+http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3 ~Radio-Classique~ #Classical
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128 ~Radio-Swiss-Classic-German~ #Classical
+
+//HIPHOP
+https://90s-high.rautemusik.fm/?ref=radiobrowser ~_90S_-by-rautemusik-(rm.fm)~ #HipHop
+https://trapradio.streamingmedia.it/play ~TRAP-RADIO-TRAP.radio~ #HipHop
+http://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/ ~90s90s-HipHop-&-Rap~ #HipHop
+https://streams.rpr1.de/rpr-hiphop-128-mp3 ~RPR1-Old-School-Hip-Hop~ #HipHop
+http://www.ilovemusic.de/iloveusonlyrapradio.m3u ~i-love-radio-US-Only-Rap&HipHop-Radio~ #HipHop
+https://stream.technolovers.fm/edm?ref=radiobrowser ~Technolovers-EDM~ #Ambient
+
+//AMBIENT
+https://www.spacetravelradio.de/listen_str.m3u ~Space-Travel-Radio~ #Ambient
+http://uk5.internet-radio.com:8347/listen.pls&t=.pls ~Ambiesphere~ #Ambient
+http://uk2.internet-radio.com:8171/listen.pls&t=.pls ~Ambient-Radio-Org~ #Ambient
+http://ice3.somafm.com/groovesalad-128-mp3 ~SomaFM-Groove-Salad~ #Ambient
+http://ice.somafm.com/secretagent ~SomaFM-Secret-Agent~ #Ambient
+http://streams.echoesofbluemars.org:8000/cryosleep ~Cryosleep~ #Ambient
+http://ice1.somafm.com/deepspaceone-128-aac ~SomaFM-Deep-Space-One-128k-AAC+~ #Ambient
+http://radio.stereoscenic.com/asp-s ~Ambient-Sleeping-Pill~ #Ambient
+http://s3.viastreaming.net:8835/ ~Dark-Ambient-Radio-(96k-AAC+)~ #Ambient
+http://radiorecord.hostingradio.ru/ambient96.aacp ~Radio-Record-Ambient~ #Ambient
+http://stream.deep.radio/hd ~Deep-Radio~ #Ambient
+http://uk4-vn.webcast-server.net:9270/ ~Fluid-Radio~ #Ambient
+https://somafm.com/deepspaceone130.pls ~SomaFM-Deep-Space-One-128k-AAC+~ #Ambient
+https://mpc2.mediacp.eu/stream/natureradiosleep ~NATURE-RADIO-SLEEP~ #Ambient
+https://giorgia.radiobellissima.it:8300/radio.mp3 ~100%-COVERS-LOUNGE~ #Ambient
+http://oceanwaves.radio.mynoise.net/ ~MyNoise-Ocean-Waves~ #Ambient
+http://zengarden.radio.mynoise.net ~MyNoise-Zen-Garden~ #Ambient #Favorites
+http://rainyday.radio.mynoise.net  ~MyNoise-Rainy-Day~ #Ambient #Favorites
