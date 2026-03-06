@@ -25,3 +25,7 @@ list of tools and configs I like and use.
 |nvim conf|cool nvim config|https://github.com/VonHeikemen/nvim-light|still testing this one|
 |starship.rs|cross-shell prompt|https://starship.rs/|install with brew then starship preset jetpack -o ~/.config/starship.toml|
 |zine|easy static site generator in rust|https://zine-ssg.io/|requires brew install zig if building from source|
+
+# tips
+
+- on mac shell, piping into pbcopy will put content in clipboard
